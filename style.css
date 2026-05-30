@@ -69,3 +69,9 @@ body {
 .text-icon {
     color: #fbfbfb; 
 }
+
+.text-light-muted {
+    color: #d1c7bd; 
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
