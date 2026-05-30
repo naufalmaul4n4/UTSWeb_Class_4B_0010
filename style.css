@@ -75,3 +75,29 @@ body {
     font-size: 0.9rem;
     line-height: 1.6;
 }
+
+.partner-section {
+    background-color: #f9f6f0;
+}
+
+.partner-main-title {
+    color: #111;
+    font-size: 1.75rem;
+}
+
+.partner-card {
+    background-color: #432c18 !important;
+    border-radius: 24px !important;
+    transition: transform 0.3s ease;
+}
+
+.partner-card:hover {
+    transform: translateY(-5px);
+}
+
+.partner-icon-wrapper {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
