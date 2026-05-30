@@ -149,3 +149,8 @@ body {
 .cta-banner {
     border-radius: 24px;
 }
+
+.cta-text {
+    font-size: 1.75rem;
+    letter-spacing: -0.3px;
+}
