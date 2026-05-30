@@ -128,3 +128,10 @@ body {
     border-radius: 50%;
     transition: all 0.3s ease;
 }
+
+.workflow-arrow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 40px;
+}
