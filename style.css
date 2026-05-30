@@ -154,3 +154,10 @@ body {
     font-size: 1.75rem;
     letter-spacing: -0.3px;
 }
+
+.btn-cta {
+    border-color: #432c18;
+    color: #432c18;
+    font-size: 1rem;
+    transition: all 0.2s ease-in-out;
+}
