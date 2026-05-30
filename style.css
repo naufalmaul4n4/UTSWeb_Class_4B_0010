@@ -101,3 +101,13 @@ body {
     align-items: center;
     justify-content: center;
 }
+
+/*Alur Kerja*/
+.workflow-img {
+    border-top-left-radius: 40px;
+    border-bottom-right-radius: 40px;
+    border-top-right-radius: 12px;
+    border-bottom-left-radius: 12px;
+    height: 380px;
+    object-fit: cover;
+}
