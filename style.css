@@ -178,3 +178,8 @@ body {
     line-height: 1.3;
     color: #111;
 }
+
+.product-main-desc {
+    font-size: 0.95rem;
+    line-height: 1.6;
+}
