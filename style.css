@@ -196,3 +196,8 @@ body {
     overflow: hidden;
     background-color: #ffffff;
 }
+
+.product-img {
+    height: 140px;
+    object-fit: cover;
+}
