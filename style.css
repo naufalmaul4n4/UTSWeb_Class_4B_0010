@@ -256,3 +256,10 @@ body {
     font-size: 1.75rem;
     letter-spacing: -0.3px;
 }
+
+.gallery-wrapper {
+    border-radius: 20px;
+    overflow: hidden;
+    background-color: #fff;
+    transition: transform 0.3s ease-in-out;
+}
