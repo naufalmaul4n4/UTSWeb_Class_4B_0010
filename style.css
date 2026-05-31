@@ -273,3 +273,8 @@ body {
     object-fit: cover;
     display: block;
 }
+
+/*Testimoni*/
+.testimonial-main-title {
+    font-size: 1.75rem;
+}
