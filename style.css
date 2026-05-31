@@ -190,3 +190,9 @@ body {
     font-size: 0.9rem;
     transition: all 0.2s ease-in-out;
 }
+
+.product-card {
+    border-radius: 16px !important;
+    overflow: hidden;
+    background-color: #ffffff;
+}
