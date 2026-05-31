@@ -224,3 +224,21 @@ body {
     border-color: #432c18;
     color: #fff;
 }
+
+/*Kalkulator*/
+.calc-box {
+    background-color: #584e0f;
+    border-radius: 32px;
+}
+
+#inputPohon {
+    border: 2px solid transparent;
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #432c18;
+}
+
+#inputPohon:focus {
+    border-color: #aae0b1;
+    box-shadow: none;
+}
