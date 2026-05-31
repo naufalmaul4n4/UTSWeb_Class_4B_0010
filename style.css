@@ -218,3 +218,9 @@ body {
 .tag-info {
     font-size: 0.75rem;
 }
+
+.btn-product-view:hover {
+    background-color: #432c18;
+    border-color: #432c18;
+    color: #fff;
+}
