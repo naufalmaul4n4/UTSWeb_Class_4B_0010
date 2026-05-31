@@ -246,3 +246,13 @@ body {
 #hasilPupuk {
     color: #432c18 !important;
 }
+
+/*galeri*/
+.gallery-section {
+    background-color: #f9f6f0;
+}
+
+.gallery-title {
+    font-size: 1.75rem;
+    letter-spacing: -0.3px;
+}
