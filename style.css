@@ -278,3 +278,50 @@ body {
 .testimonial-main-title {
     font-size: 1.75rem;
 }
+
+.testimonial-card {
+    border-radius: 20px !important;
+    background-color: #e8e1d1dc;
+    overflow: visible;
+    transition: transform 0.3s ease;
+}
+
+.testimonial-card:hover {
+    transform: translateY(-5px);
+}
+
+.testimonial-header-box {
+    background-color: #432c18;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    height: 70px;
+    padding: 0 20px;
+}
+
+.profile-avatar-wrapper {
+    top: -25px;
+    left: 20px;
+    width: 65px;
+    height: 65px;
+    background-color: #ffffff;
+    padding: 3px;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.profile-avatar {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.text-avatar-name {
+    margin-left: 80px; 
+    font-size: 0.9rem;
+}
+
+.quote-icon-custom {
+    color: #e5b842;
+    font-size: 2rem;
+    opacity: 0.9;
+}
