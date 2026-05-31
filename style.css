@@ -336,3 +336,33 @@ body {
     color: #555555 !important;
     text-align: justify;
 }
+
+/* --- Footer --- */
+.footer-dark {
+    background-color: #432c18;
+}
+
+.footer-logo-text {
+    font-size: 1.6rem;
+    letter-spacing: -0.5px;
+}
+
+.footer-sub-title {
+    font-size: 0.9rem;
+    letter-spacing: 0.5px;
+}
+
+.footer-contact-info {
+    font-size: 0.85rem;
+    color: #d1c7bd;
+    margin-bottom: 4px !important;
+}
+
+.footer-copyright {
+    font-size: 0.8rem;
+    color: #a89f96 !important;
+}
+
+.filter-white {
+    filter: brightness(0) invert(1);
+}
