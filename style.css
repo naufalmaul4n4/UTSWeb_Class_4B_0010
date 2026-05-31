@@ -201,3 +201,8 @@ body {
     height: 140px;
     object-fit: cover;
 }
+
+.subtitle-category {
+    font-size: 0.75rem;
+    letter-spacing: 0.2px;
+}
